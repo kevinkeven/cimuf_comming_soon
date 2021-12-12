@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cimuf.com
+Token: d5782921d2b46712b52aee3062c06c3f0cd8b3e03dd72e64d37ae7acaf836bd0
